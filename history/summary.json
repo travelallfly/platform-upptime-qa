@@ -4,18 +4,20 @@
     "url": "https://quest.qa.allfly.io",
     "icon": "https://icons.duckduckgo.com/ip3/quest.qa.allfly.io.ico",
     "slug": "quest",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 456,
-    "timeDay": 386,
-    "timeWeek": 450,
-    "timeMonth": 456,
-    "timeYear": 456,
-    "dailyMinutesDown": {}
+    "time": 423,
+    "timeDay": 239,
+    "timeWeek": 405,
+    "timeMonth": 423,
+    "timeYear": 423,
+    "dailyMinutesDown": {
+      "2025-05-07": 0
+    }
   },
   {
     "name": "API (CORE)",

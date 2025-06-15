@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/quest.qa.allfly.io.ico",
     "slug": "quest",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 458,
-    "timeDay": 191,
-    "timeWeek": 367,
-    "timeMonth": 442,
-    "timeYear": 458,
+    "uptimeYear": "99.99%",
+    "time": 466,
+    "timeDay": 878,
+    "timeWeek": 389,
+    "timeMonth": 454,
+    "timeYear": 466,
     "dailyMinutesDown": {
       "2025-05-07": 10
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 300,
-    "timeDay": 345,
-    "timeWeek": 303,
-    "timeMonth": 308,
+    "timeDay": 307,
+    "timeWeek": 299,
+    "timeMonth": 307,
     "timeYear": 300,
     "dailyMinutesDown": {
       "2025-05-07": 8

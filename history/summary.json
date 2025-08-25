@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 452,
-    "timeDay": 341,
-    "timeWeek": 383,
-    "timeMonth": 410,
-    "timeYear": 452,
+    "time": 451,
+    "timeDay": 299,
+    "timeWeek": 379,
+    "timeMonth": 408,
+    "timeYear": 451,
     "dailyMinutesDown": {
       "2025-05-07": 10
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.quest.qa.allfly.io.ico",
     "slug": "api-core",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 332,
-    "timeDay": 316,
-    "timeWeek": 327,
-    "timeMonth": 425,
-    "timeYear": 332,
+    "uptimeYear": "100.00%",
+    "time": 330,
+    "timeDay": 97,
+    "timeWeek": 296,
+    "timeMonth": 423,
+    "timeYear": 330,
     "dailyMinutesDown": {
       "2025-05-07": 8
     }
